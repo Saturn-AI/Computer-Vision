@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Number-Plate']
+
+roboflow:
+  workspace: beta-2mwl1
+  project: carnumberplate-at2sr
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/beta-2mwl1/carnumberplate-at2sr/2
