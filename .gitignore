@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
 *.pt
@@ -150,3 +151,8 @@ dmypy.json
 =======
 *_openvino_model/
 >>>>>>> 9f74610 (Updated Gitignore & Added Traffic Analysis project)
+=======
+# ignore mp4 files
+.mp4
+.jpg
+>>>>>>> ef53f51 (Revert "Updated Gitignore & Added Traffic Analysis project")
