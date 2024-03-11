@@ -142,7 +142,11 @@ dmypy.json
 *.jpg
 *_saved_model/
 *_web_model/
+<<<<<<< HEAD
 *_openvino_model/
 # ignore mp4 files
 .mp4
 .jpg
+=======
+*_openvino_model/
+>>>>>>> 9f74610 (Updated Gitignore & Added Traffic Analysis project)
