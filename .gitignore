@@ -143,3 +143,6 @@ dmypy.json
 *_saved_model/
 *_web_model/
 *_openvino_model/
+# ignore mp4 files
+.mp4
+.jpg
